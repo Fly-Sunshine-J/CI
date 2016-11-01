@@ -1637,7 +1637,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.vcyber.CITest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "fd4395a2-e7ea-4db1-90f8-8f4ad1f0f602";
+				PROVISIONING_PROFILE = "b03968db-73fb-4051-93fb-79903863f49a";
 			};
 			name = Debug;
 		};
@@ -1652,7 +1652,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.vcyber.CITest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "ac57307b-6c5a-4d04-b83f-c175d92cf75d";
+				PROVISIONING_PROFILE = "b5125373-f266-4709-9a3f-be8122d2d46b";
 			};
 			name = Release;
 		};
